@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/primary_weather_info.xml",
+        "source": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/res/layout/primary_weather_info.xml"
+    },
+    {
+        "merged": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/extra_weather_details.xml",
+        "source": "/Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/res/layout/extra_weather_details.xml"
+    }
+]
