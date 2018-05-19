@@ -76,6 +76,11 @@
             </intent-filter>
         </service>
 
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.android.sunshine.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
         <!--
              Receives GooglePlay execution requests and forwards them to the
              appropriate internal service.

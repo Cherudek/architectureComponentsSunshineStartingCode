@@ -1,11 +1,16 @@
 package com.example.android.sunshine.data.database;
 
 import android.arch.persistence.room.Database;
+import android.arch.persistence.room.Query;
 import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
+import android.arch.persistence.room.TypeConverters;
 import android.content.Context;
 
+import java.util.Date;
+
 @Database(entities = {WeatherEntry.class}, version = 1)
+@TypeConverters(DateConverter.class)
 public abstract class SunshineDatabase extends RoomDatabase {
 
 
