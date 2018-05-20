@@ -19,8 +19,12 @@ public interface WeatherDao {
     LiveData<WeatherEntry> getWeatherByDate(Date date);
 
     // Count the number of days stored in the database
-    @Query("SELECT COUNT(date) FROM weather ")
-    LiveData<WeatherEntry> countAllFutureWeather(Date date);
+    @Query("SELECT COUNT(id) FROM weather WHERE date >= :date")
+    int countAllFutureWeather(Date date);
+
+    // Delete Old Data
+    @Query("DELETE FROM weather WHERE date < :date")
+    void deleteOldWeather(Date date);
 
 
 }
