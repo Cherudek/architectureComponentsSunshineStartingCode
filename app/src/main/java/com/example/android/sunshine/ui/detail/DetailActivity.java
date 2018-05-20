@@ -53,6 +53,11 @@ public class DetailActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        Date dateFactory = SunshineDateUtils.getNormalizedUtcDateForToday();
+        DetailViewModelFactory detailViewModelFactory = InjectorUtils.provideDetailViewModelFactory(this, dateFactory);
+        ViewModelProviders.of(this, detailViewModelFactory).get(DetailActivityViewModel.class);
+
+
         mDetailBinding = DataBindingUtil.setContentView(this, R.layout.activity_detail);
         long timestamp = getIntent().getLongExtra(WEATHER_ID_EXTRA, -1);
         Date date = new Date(timestamp);
@@ -64,25 +69,6 @@ public class DetailActivity extends AppCompatActivity{
         mViewModel.getWeather().observe(this, weatherEntry -> {
              // Update the UI
             if (weatherEntry != null) bindWeatherToUI(weatherEntry);
-        });
-
-        // This simulates 2 data changes and the consequent call to postValue()
-        AppExecutors.getInstance().diskIO().execute(()-> {
-            try {
-
-                // Pretend this is the network loading data
-                Thread.sleep(4000);
-                Date today = SunshineDateUtils.getNormalizedUtcDateForToday();
-                WeatherEntry pretendWeatherFromDatabase = new WeatherEntry(1, 210, today,88.0,99.0,71,1030, 74, 5);
-                mViewModel.setWeather(pretendWeatherFromDatabase);
-
-                Thread.sleep(2000);
-                pretendWeatherFromDatabase = new WeatherEntry(1, 952, today,50.0,60.0,46,1044, 70, 100);
-                mViewModel.setWeather(pretendWeatherFromDatabase);
-
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
         });
 
     }
