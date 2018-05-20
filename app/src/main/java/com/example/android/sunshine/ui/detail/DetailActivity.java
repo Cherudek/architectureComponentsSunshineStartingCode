@@ -85,11 +85,6 @@ public class DetailActivity extends AppCompatActivity{
             }
         });
 
-        // THIS IS JUST TO RUN THE CODE; REPOSITORY SHOULD NEVER BE CREATED IN
-        // DETAILACTIVITY
-        InjectorUtils.provideRepository(this).initializeData();
-
-
     }
 
     private void bindWeatherToUI(WeatherEntry weatherEntry) {
