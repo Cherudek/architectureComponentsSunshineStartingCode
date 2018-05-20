@@ -38,7 +38,7 @@ class DetailActivityViewModel extends ViewModel {
     public DetailActivityViewModel(SunshineRepository sunshineRepository, Date date){
         mDate = date;
         mSunshineRepository = sunshineRepository;
-        mWeather = mSunshineRepository.getWeatherByDate(date);
+        mWeather = mSunshineRepository.getWeatherByDate(mDate);
     }
 
     public LiveData<WeatherEntry> getWeather() {

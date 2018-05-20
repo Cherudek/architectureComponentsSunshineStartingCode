@@ -21,7 +21,6 @@ import android.arch.lifecycle.ViewModel;
 import android.arch.lifecycle.ViewModelProvider;
 
 import com.example.android.sunshine.data.SunshineRepository;
-import com.example.android.sunshine.data.database.WeatherEntry;
 
 import java.util.Date;
 
