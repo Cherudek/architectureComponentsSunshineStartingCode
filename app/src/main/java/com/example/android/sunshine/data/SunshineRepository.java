@@ -24,6 +24,8 @@ import com.example.android.sunshine.data.database.WeatherDao;
 import com.example.android.sunshine.data.database.WeatherEntry;
 import com.example.android.sunshine.data.network.WeatherNetworkDataSource;
 
+import java.util.Date;
+
 /**
  * Handles data operations in Sunshine. Acts as a mediator between {@link WeatherNetworkDataSource}
  * and {@link WeatherDao}
@@ -62,11 +64,24 @@ public class SunshineRepository {
         return sInstance;
     }
 
+    // Get Room LiveData WeatherEntry to the Weather Repository
+    public LiveData<WeatherEntry> getWeatherbyDate(Date date){
+
+        LiveData<WeatherEntry> weatherEntry = mWeatherDao.getWeatherByDate(date);
+
+        initializeData();
+
+        return weatherEntry;
+    }
+
+
+
+
     /**
      * Creates periodic sync tasks and checks to see if an immediate sync is required. If an
      * immediate sync is required, this method will take care of making sure that sync occurs.
      */
-    public synchronized void initializeData() {
+    private synchronized void initializeData() {
 
         // Only perform initialization once per app lifetime. If initialization has already been
         // performed, we have nothing to do in this method.
