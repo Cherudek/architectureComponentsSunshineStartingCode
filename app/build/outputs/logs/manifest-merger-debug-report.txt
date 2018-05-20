@@ -6,28 +6,28 @@ INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-74:12
 MERGED from [com.android.databinding:adapters:3.2.0-alpha15] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/adapters-3.2.0-alpha15.aar/6e7a719b1011480c1203deab291d2623/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.2.0-alpha15] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/library-3.2.0-alpha15.aar/c4cb70b29f093c92bca2dff35a172bd5/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.support:preference-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/e88d9474c9a946b1655df0a1ee1f2a2a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:17:1-42:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3700d8da5ab641b116f808e1e91b06fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/22150c3f0e944252a10cf76fdac512ce/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/180211e461b0e78bf47b8b2a132c1b90/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2ff68045ed589b65194a81bd5540ddf2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/508cd54645f53a87352513fc4c983598/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e4c95a492579ac1af999267b73a584a6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d6798b3d3a223c508efeefd4ee9aeeed/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/53f6771243afb2d7eecafe7220bae1d9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5d9a1f00870f0180c107b4a7cd434deb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8853d035b39db2729691dd339e53ae0d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5b4a3ce520051caccd8ab98aa5156160/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca1db4129ce4ffc1863731f55f03acb6/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2ba519fd7621ac4472eb3808fb779e3b/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7034cc026449e2765a95bbffafba387f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-74:12
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-74:12
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-74:12
@@ -53,12 +53,12 @@ ADDED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/ma
 		ADDED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
 application
 ADDED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-73:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:22:5-28:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:22:5-28:19
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:26:5-40:19
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:26:5-40:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:22:5-28:19
 	android:supportsRtl
 		ADDED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
 	android:label
@@ -139,16 +139,20 @@ MERGED from [com.android.databinding:adapters:3.2.0-alpha15] /Users/Gregorio/.gr
 MERGED from [com.android.databinding:adapters:3.2.0-alpha15] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/adapters-3.2.0-alpha15.aar/6e7a719b1011480c1203deab291d2623/AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:library:3.2.0-alpha15] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/library-3.2.0-alpha15.aar/c4cb70b29f093c92bca2dff35a172bd5/AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:library:3.2.0-alpha15] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/library-3.2.0-alpha15.aar/c4cb70b29f093c92bca2dff35a172bd5/AndroidManifest.xml:22:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:preference-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/e88d9474c9a946b1655df0a1ee1f2a2a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:preference-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/e88d9474c9a946b1655df0a1ee1f2a2a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:20:5-44
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:22:5-24:41
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3700d8da5ab641b116f808e1e91b06fd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3700d8da5ab641b116f808e1e91b06fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/d40005bbe58f19ef22707a10f46ec0cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/22150c3f0e944252a10cf76fdac512ce/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/22150c3f0e944252a10cf76fdac512ce/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/180211e461b0e78bf47b8b2a132c1b90/AndroidManifest.xml:20:5-44
@@ -161,16 +165,16 @@ MERGED from [com.android.support:support-core-ui:27.1.0] /Users/Gregorio/.gradle
 MERGED from [com.android.support:support-core-ui:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e4c95a492579ac1af999267b73a584a6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d6798b3d3a223c508efeefd4ee9aeeed/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/d6798b3d3a223c508efeefd4ee9aeeed/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/84baf4386c9c7154d7558911861c2287/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/53f6771243afb2d7eecafe7220bae1d9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/53f6771243afb2d7eecafe7220bae1d9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5d9a1f00870f0180c107b4a7cd434deb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5d9a1f00870f0180c107b4a7cd434deb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8853d035b39db2729691dd339e53ae0d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8853d035b39db2729691dd339e53ae0d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/115584f5f24003df9295a9a3687b9aeb/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5b4a3ce520051caccd8ab98aa5156160/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5b4a3ce520051caccd8ab98aa5156160/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca1db4129ce4ffc1863731f55f03acb6/AndroidManifest.xml:20:5-44
@@ -179,10 +183,6 @@ MERGED from [android.arch.core:runtime:1.1.1] /Users/Gregorio/.gradle/caches/tra
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2ba519fd7621ac4472eb3808fb779e3b/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7034cc026449e2765a95bbffafba387f/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7034cc026449e2765a95bbffafba387f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/59550d3700e7ff93226ab04fdc52d7fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db:1.1.1-rc1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/a01850d4e2cfb2cfb2ba416b51aa34d1/AndroidManifest.xml:20:5-44
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -193,16 +193,6 @@ INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src
 		INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 		ADDED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Gregorio/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
-provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:23:9-27:43
-	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:25:13-68
-	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:27:13-40
-	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:26:13-37
-	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:24:13-83
 service#com.firebase.jobdispatcher.GooglePlayReceiver
 ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:32:9-39:19
 	android:exported
@@ -217,3 +207,13 @@ action#com.google.android.gms.gcm.ACTION_TASK_READY
 ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:37:17-87
 	android:name
 		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/4a364db2ffd128032b3980cba3de55fb/AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/Gregorio/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7cdd2684ea41c60c7fe4670c296f4c11/AndroidManifest.xml:24:13-83

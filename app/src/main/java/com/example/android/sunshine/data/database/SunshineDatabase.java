@@ -1,7 +1,6 @@
 package com.example.android.sunshine.data.database;
 
 import android.arch.persistence.room.Database;
-import android.arch.persistence.room.Query;
 import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
 import android.arch.persistence.room.TypeConverters;
