@@ -53,17 +53,12 @@ public class DetailActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Date dateFactory = SunshineDateUtils.getNormalizedUtcDateForToday();
-        DetailViewModelFactory detailViewModelFactory = InjectorUtils.provideDetailViewModelFactory(this, dateFactory);
-        ViewModelProviders.of(this, detailViewModelFactory).get(DetailActivityViewModel.class);
-
-
         mDetailBinding = DataBindingUtil.setContentView(this, R.layout.activity_detail);
-        long timestamp = getIntent().getLongExtra(WEATHER_ID_EXTRA, -1);
-        Date date = new Date(timestamp);
 
+        Date date = SunshineDateUtils.getNormalizedUtcDateForToday();
+        DetailViewModelFactory detailViewModelFactory = InjectorUtils.provideDetailViewModelFactory(this, date);
         // Attaching the View model to the UI controller (this activity)
-        mViewModel = ViewModelProviders.of(this).get(DetailActivityViewModel.class);
+        mViewModel = ViewModelProviders.of(this, detailViewModelFactory).get(DetailActivityViewModel.class);
 
         // Attaching a Live Data observable to the UI controller
         mViewModel.getWeather().observe(this, weatherEntry -> {

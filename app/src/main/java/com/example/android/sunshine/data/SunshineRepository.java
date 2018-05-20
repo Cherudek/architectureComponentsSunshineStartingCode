@@ -65,12 +65,9 @@ public class SunshineRepository {
     }
 
     // Get Room LiveData WeatherEntry to the Weather Repository
-    public LiveData<WeatherEntry> getWeatherbyDate(Date date){
-
-        LiveData<WeatherEntry> weatherEntry = mWeatherDao.getWeatherByDate(date);
-
+    public LiveData<WeatherEntry> getWeatherByDate(Date date){
         initializeData();
-
+        LiveData<WeatherEntry> weatherEntry = mWeatherDao.getWeatherByDate(date);
         return weatherEntry;
     }
 
